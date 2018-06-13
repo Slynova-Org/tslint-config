@@ -7,7 +7,7 @@ module.exports = {
   // See https://palantir.github.io/tslint/rules/ban-types/
   'ban-types': {
     options: [
-      ['Object', "Avoid using the `Object` type. Did you mean `object`?'],
+      ['Object', 'Avoid using the `Object` type. Did you mean `object`?'],
       ['Function', 'Avoid using the `Function` type. Prefer a specific function type, like `() => void`.'],
       ['Boolean', 'Avoid using the `Boolean` type. Did you mean `boolean`?'],
       ['Number', 'Avoid using the `Number` type. Did you mean `number`?'],

@@ -28,7 +28,7 @@ module.exports = {
   'class-name': true,
 
   // See https://palantir.github.io/tslint/rules/comment-format/
-  'comment-format': [true, 'check-space']
+  'comment-format': [true, 'check-space'],
 
   // See https://palantir.github.io/tslint/rules/completed-docs/
   'completed-docs': false,
