@@ -7,4 +7,6 @@ const rules = [
   './rules/style',
 ].map(require)
 
-module.exports = Object.assign({}, ...rules)
+module.exports = {
+  rules: Object.assign({}, ...rules)
+}
