@@ -101,7 +101,7 @@ module.exports = {
   'no-unbound-method': true,
 
   // See https://palantir.github.io/tslint/rules/no-unnecessary-class/
-  'no-unnecessary-class': true,
+  'no-unnecessary-class': false,
 
   // See https://palantir.github.io/tslint/rules/no-unsafe-any/
   'no-unsafe-any': true,
